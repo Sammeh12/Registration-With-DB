@@ -1,0 +1,14 @@
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\bin\Debug\RegistrationWithDB.exe.config
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\bin\Debug\RegistrationWithDB.exe
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\bin\Debug\RegistrationWithDB.pdb
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.csproj.AssemblyReference.cache
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.FrmClubRegistration.resources
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.FrmUpdateMember.resources
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.Properties.Resources.resources
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.csproj.GenerateResource.cache
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.csproj.CoreCompileInputs.cache
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.exe
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.pdb
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\bin\Debug\ClubDB.mdf
+C:\Users\GAMAY\source\repos\RegistrationWithDB\RegistrationWithDB\bin\Debug\ClubDB_log.ldf
